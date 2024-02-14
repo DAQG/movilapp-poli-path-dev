@@ -1,3 +1,16 @@
+# APLICACIÓN MOVIL DE GEOLOCALIZACIÓN PARA LA EPN
+App móvil para la Escuela Politecnica Nacional 
+
+## Proyecto alojado en la tienda de Aptoide
+https://movilapppolipath.es.aptoide.com/app
+
+![image](https://github.com/DAQG/movilapp-poli-path-dev/assets/117754291/d3041903-85de-42ad-a957-b9835294b465)
+
+
+## Enlace para el Manual de usuario
+https://www.youtube.com/watch?v=OB6L6xQqkGc
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -77,4 +90,10 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
-- 
+  
+
+
+## Autores
+* App Móvil [**Daniel Quishpe**](https://github.com/DAQG) [Aplicación Móvil](https://github.com/DAQG/movilapp-poli-path-dev.git)
+* Frontend [**Nestor Chumania**](https://github.com/RotsenCH) [Web Frontend](  )
+* Backend [**Salome Quishpe**](https://github.com/Salo-Quispe) [Api Backend](https://github.com/Salo-Quispe/backend-poli-path)
