@@ -7,12 +7,12 @@ https://movilapppolipath.es.aptoide.com/app
 ![image](https://github.com/DAQG/movilapp-poli-path-dev/assets/117754291/d3041903-85de-42ad-a957-b9835294b465)
 
 ## Problemas en la tienda de APTOIDE
-El aplicativo movil se encuentra en constante revision por parte de el grupo de desarrolladores de APTOIDE por sus permisos de geolocalización que requiere la aplicación movil. Es por eso que el aplicaación movil por el momento ya no se encuentra disponible en la tienda de APTOIDE:
+El aplicativo móvil se encuentra en constante revisión por parte de el grupo de desarrolladores de APTOIDE por sus permisos de geolocalización que requiere la aplicación móvil. Es por eso que el aplicación movil por el momento ya no se encuentra disponible en la tienda de APTOIDE:
 
 
 ![image](https://github.com/DAQG/movilapp-poli-path-dev/assets/117754291/2938b7a8-411c-4791-91d5-44a0b7c7f6b3)
 
-La aplicación movil por el momento se encuentra alojada en el siguiente link hasta su debida revisión y aprobación del grupo de desarrolladores de APTOIDE:
+La aplicación móvil por el momento se encuentra alojada en el siguiente link hasta su debida revisión y aprobación del grupo de desarrolladores de APTOIDE:
 
 
 https://drive.google.com/file/d/1Y9AkEv-HshkDXK_SBtgQ-ag4Lv6ZQFDL/view?usp=sharing 
